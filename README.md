@@ -1,29 +1,9 @@
 <div align="center">
-
-  <div align="center">
-	<!-- profile-3d-contrib 3D贡献图-->
-	<img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/profile-3d-contrib/profile-night-rainbow.svg" />
-	</div>
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);红豆生南国&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+	
+ <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-
-
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 
@@ -37,6 +17,21 @@
 </table>
 
 </div>
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
+
+  <div align="center">
+	<!-- profile-3d-contrib 3D贡献图-->
+	<img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/profile-3d-contrib/profile-night-rainbow.svg" />
+	</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/base.svg" />
+
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
@@ -84,6 +79,7 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 
 🧰 **常用的工具**
+	
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
