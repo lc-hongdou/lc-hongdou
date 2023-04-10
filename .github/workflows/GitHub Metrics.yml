@@ -282,7 +282,7 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://blog.sunguoqi.com
+          plugin_pagespeed_url: https://lc-hongdou.cn
 
       # 🐤 Latest tweets
       # 需要申请开发者账户
