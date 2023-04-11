@@ -54,8 +54,9 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/languages.indepth.svg" alt="languages.indepth" /> | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/reactions.svg" alt="reactions" /> |
 | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/followup.indepth.svg" alt="followup.indepth" /> | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/achievements.compact.svg" alt="achievements.compact" /> |
-| <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /> | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/habits.charts.svg" alt="habits.charts" /> |
+| <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /> | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/pagespeed.screenshot.svg" alt="pagespeed.screenshot" /> |
 | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /> | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/calendar.full.svg" alt="calendar.full" /> |
+| <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/stackoverflow.svg" alt="stackoverflow" /> | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/habits.charts.svg" alt="habits.charts" /> |
 | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/activity.svg" alt="activity" /> | <img src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/github-metrics/stars.svg" alt="stars" /> |
 
 </div>
