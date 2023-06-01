@@ -9,16 +9,16 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
-
+<!-- 
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=lc-hongdou&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
-</div>
+</div> -->
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/lc-hongdou/lc-hongdou/assets/images/hr.gif" /> -->
 
   <div align="center">
 	<!-- profile-3d-contrib 3D贡献图-->
