@@ -159,7 +159,7 @@ jobs:
           plugin_reactions_details: percentage
 
       # 🧑‍🤝‍🧑 People    
-      - name: Followers
+      - name: 关注者
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/people.followers.svg
@@ -282,7 +282,7 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://lc-hongdou.cn
+          plugin_pagespeed_url: https://hongdoulc.netlify.app/
 
       # 🐤 Latest tweets
       # 需要申请开发者账户
